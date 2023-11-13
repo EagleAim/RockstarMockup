@@ -1,10 +1,8 @@
 html {
     width: 1500px;
-}
-
-body {
     background-color: black;
 }
+
 
 #GTA6-header {
     max-width: 100%;
@@ -40,3 +38,16 @@ button:hover {
     color: black;
 }
 
+main {
+    padding: 2px;
+    background-color: grey;
+}
+
+footer {
+    color: white;
+}
+
+link:hover {
+    background-color: #ffab00;
+    color: black;
+}
